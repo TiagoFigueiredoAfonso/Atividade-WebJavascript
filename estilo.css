@@ -1,0 +1,44 @@
+body {
+    background: rgb(181, 219, 130);
+}
+header{
+    color: rgb(60, 0, 128);
+    text-align: center;
+    font-size: 20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;
+    text-shadow: 5px 5px 10px black;
+}
+section{
+    background: rgb(192, 192, 212);
+    width: 400px;
+    height: 230px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 10px;
+    font-size: 15pt;
+    box-shadow: 5px 5px 10px black;
+}
+div#msg {
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+img#imagem {
+    width: 180px;
+    height: 180px;
+    border-radius: 95px;
+    display: block;
+    margin: auto;
+}
+footer {
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 20pt;
+    text-shadow: 5px 5px 5px black;
+}
+div {
+    color: #c73e0c9d;
+}
